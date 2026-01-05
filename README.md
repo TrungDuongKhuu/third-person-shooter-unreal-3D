@@ -9,8 +9,8 @@
 
 ---
 
-## 👥 Team Members
-
+## 👥 Information
+**Ton Duc Thang University — Year: 2024 - 2025**
 1. **Khuu Trung Duong** – 52200154
 2. **Nguyen Vinh Hung** – 52200097
 3. **Nguyen Hoa An** – 52200182
