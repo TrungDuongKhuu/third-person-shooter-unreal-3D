@@ -25,4 +25,4 @@ The download folder contains **two main components**:
 
 * This repository focuses on **sharing the project for learning, reference, and experimentation**.
 * If you only want to try the game, download and run the **EXE build**.
-* If you want to explore or modify the project, use the **Unreal Engine source folder**.
+* If you want to explore or modify the project, use the **Unreal Engine source folder**. \
