@@ -18,7 +18,7 @@
 ---
 
 ## 🎥 Demo Video (Required)
-
+* **Youtube:** https://youtube.com/watch?v=ZMxyqX5Qc2I
 * **Google Drive:** https://drive.google.com/file/d/12epwrC-5eYpejWcyncX4ah_PXL4abpYv/view?usp=drive_link
 
 > ⚠️ Notes:
