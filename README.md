@@ -19,8 +19,7 @@
 
 ## 🎥 Demo Video (Required)
 
-* **YouTube:** [https://youtube.com/watch?v=ZMxyqX5Qc2I](https://youtube.com/watch?v=ZMxyqX5Qc2I)
-* **Google Drive:** [https://drive.google.com/drive/folders/1nFajthh6KaGl987RUoogiCnrF8Qg9twJ](https://drive.google.com/drive/folders/1nFajthh6KaGl987RUoogiCnrF8Qg9twJ)
+* **Google Drive:** https://drive.google.com/file/d/12epwrC-5eYpejWcyncX4ah_PXL4abpYv/view?usp=drive_link
 
 > ⚠️ Notes:
 >
