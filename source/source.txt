@@ -1,0 +1,7 @@
+- Vì nguyên nhân do Elit không đủ dung lượng chứa source nên em đã để nó link drive này
+- Nhóm cam kết không sửa đổi source code sau khi đã hết hạn nộp bài
+Link drive: https://drive.google.com/drive/folders/1iyZ5CyUrQtzdCas9rEnWSVoT4kKAuSH6?usp=sharing
+------------------------------------------------------------------------
+Trong thư mục nộp bài bao gồm 2 thành phần chính:
+1. File nén "GK07_Demo.zip": Chứa bản Game đã đóng gói (.EXE) để chơi ngay.
+2. Thư mục "GK07_Demo": Chứa toàn bộ Source Code (Dự án Unreal Engine).
