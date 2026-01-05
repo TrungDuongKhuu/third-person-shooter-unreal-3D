@@ -1,0 +1,28 @@
+### 📦 Source Code & Download Information
+
+Due to platform storage limitations, the full project is hosted externally on Google Drive.
+
+🔗 **Download link:**
+[https://drive.google.com/drive/folders/1iyZ5CyUrQtzdCas9rEnWSVoT4kKAuSH6?usp=sharing](https://drive.google.com/drive/folders/1iyZ5CyUrQtzdCas9rEnWSVoT4kKAuSH6?usp=sharing)
+
+> The source code will remain unchanged after the official release.
+
+---
+
+### 📁 Package Contents
+
+The download folder contains **two main components**:
+
+1. **`GK07_Demo.zip`**
+   A packaged game build (**.EXE**) that can be played immediately without Unreal Engine.
+
+2. **`GK07_Demo/`**
+   The complete **Unreal Engine project**, including all source code and assets.
+
+---
+
+### ℹ️ Notes
+
+* This repository focuses on **sharing the project for learning, reference, and experimentation**.
+* If you only want to try the game, download and run the **EXE build**.
+* If you want to explore or modify the project, use the **Unreal Engine source folder**.
